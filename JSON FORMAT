@@ -1,0 +1,10 @@
+let student = {
+    "name":"pugalenthi",
+    "fathername":"sekaran",
+    "mothername":"chandra",
+    "degree":"mechanical engineering",
+    "passed out":"2021",
+    "Hometown":"velavalli",
+    "Hobby":"playing cricket"
+    
+}
